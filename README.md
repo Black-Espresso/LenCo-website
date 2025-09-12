@@ -1,2 +1,2 @@
 # LenCo-website
-(C) 2084 LenCo. All rights reserved.
+(C) 2030 LenCo. All rights reserved.
